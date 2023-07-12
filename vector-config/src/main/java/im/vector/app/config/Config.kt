@@ -79,7 +79,7 @@ object Config {
      * Can be disabled by providing Analytics.Disabled
      */
     val RELEASE_ANALYTICS_CONFIG = Analytics.PostHog(
-            postHogHost = "https://posthog.hss.element.io",
+            postHogHost = "https://posthog.element.io",
             postHogApiKey = "phc_Jzsm6DTm6V2705zeU5dcNvQDlonOR68XvX2sh1sEOHO",
             policyLink = "https://element.io/cookie-policy",
     )
